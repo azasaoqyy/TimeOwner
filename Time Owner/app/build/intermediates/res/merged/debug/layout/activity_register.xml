@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Register Form"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="30dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_horizontal"
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:padding="20dp"
+        android:id="@+id/name"
+        android:layout_gravity="center_horizontal"
+
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="User Name"
+        android:id="@+id/new_user_name"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal"
+
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:id="@+id/new_user_pass"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal"
+        android:inputType="textPassword"
+
+        />
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Register"
+        android:id="@+id/bRegister"
+
+        />
+
+</LinearLayout><!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/activity_register.xml -->
