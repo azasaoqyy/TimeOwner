@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Login Form"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="30dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_horizontal"
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="User Name"
+        android:padding="20dp"
+        android:id="@+id/user_name"
+        android:layout_gravity="center_horizontal"
+
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:id="@+id/user_pass"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal"
+        android:inputType="textPassword"
+
+        />
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Login"
+        android:id="@+id/bLogin"
+
+        />
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Register"
+        android:id="@+id/bToRegister"
+
+        />
+
+
+
+
+
+</LinearLayout>
