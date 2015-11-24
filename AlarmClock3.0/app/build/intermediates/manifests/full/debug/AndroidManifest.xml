@@ -48,6 +48,11 @@
             android:name="com.trigg.alarmclock.Login"
             android:label="@string/title_activity_login" >
         </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
         <activity
             android:name="com.trigg.alarmclock.SingleContactActivity"
             android:label="@string/title_activity_single_contact" >
@@ -59,6 +64,12 @@
         <activity
             android:name="com.trigg.alarmclock.Register"
             android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
         </activity>
     </application>
 

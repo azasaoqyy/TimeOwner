@@ -4,6 +4,8 @@
     <string name="app_name">Time Owner</string>
     <string name="action_settings">Settings</string>
 
+	<string name="facebook_app_id">143253236035745</string>
+
     <string name="details_alarm_name">Alarm Name</string>
 	<string name="details_repeat_weekly">Repeat Weekly</string>
 	<string name="details_sunday">Sunday</string>

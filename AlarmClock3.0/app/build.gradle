@@ -27,4 +27,5 @@ dependencies {
     //compile 'com.android.support:support-v4:19.1.0'
     compile 'com.android.support:appcompat-v7:22.2.0'
     //compile files('src/main/android-support-v7-appcompat.jar')
+    compile project(':facebook')
 }

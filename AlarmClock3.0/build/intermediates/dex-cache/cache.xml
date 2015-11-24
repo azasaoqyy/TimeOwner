@@ -2,32 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-718687d023ab9571473b1b3942d832fd42bb1c54.jar" />
-    </item>
-    <item
-        jar="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\pre-dexed\debug\classes-fea377120902c0b634915eb2c5c3a43550bfe6a6.jar" />
-    </item>
-    <item
-        jar="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\pre-dexed\debug\classes-6d63866a45d5d6810ac43584485b18fa01adf4c4.jar" />
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\classes-a1cc3297f617452808a38070d5c483c4232530ec.jar" />
     </item>
     <item
-        jar="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Users\encore\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-179eedb7a8296aad6d0f4531794461b4ab650e78.jar" />
+    </item>
+    <item
+        jar="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\classes-fa6b13113329e06dffd7639c673b6e48f0cfcda7.jar" />
+    </item>
+    <item
+        jar="C:\Users\encore\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-4b58c1a1dbd513531051cf47b746dc89b2af679c.jar" />
+    </item>
+    <item
+        jar="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\exploded-aar\com.facebook.android\facebook\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cc7f26f3d38a6cd76f4ec2dfe3c009a175c2c5e3">
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\classes-5983ae77e1911f2bd6bf384a4981331b07bae550.jar" />
+    </item>
+    <item
+        jar="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\user\Desktop\AlarmClock2.0\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-bb30e4fc25e6ea69f15e931cbde5c23aa12ef5e3.jar" />
+        <dex dex="E:\文件\TimeOwner\TimeOwner\AlarmClock3.0\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-aca3d2c563f199099ae3935505849cd22cc01947.jar" />
     </item>
 
 </items>
