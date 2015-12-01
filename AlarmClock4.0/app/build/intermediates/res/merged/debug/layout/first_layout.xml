@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/plan"
+        android:layout_width="318dp"
+        android:layout_height="426dp"
+        android:src="@drawable/plan"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout><!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/first_layout.xml -->
