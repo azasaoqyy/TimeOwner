@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.encore.swipeviewswithtabs.SingleContactActivity">
+
+    <TextView android:id="@+id/title_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dip"
+        android:textStyle="bold"
+        android:paddingTop="10dip"
+        android:paddingBottom="10dip"
+        android:textColor="#43bd00"/>
+    <!-- Email Label -->
+    <TextView android:id="@+id/location_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#acacac"/>
+    <!-- Mobile Label -->
+
+</LinearLayout>
+<!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/activity_single_contact.xml -->

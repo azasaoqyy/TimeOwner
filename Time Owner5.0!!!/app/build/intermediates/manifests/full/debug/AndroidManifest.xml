@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.trigg.alarmclock"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        <activity
+            android:name="com.trigg.alarmclock.first_page"
+            android:label="@string/title_activity_first_page" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.trigg.alarmclock.AlarmListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.trigg.alarmclock.AlarmScreen" />
+        <activity android:name="com.trigg.alarmclock.AlarmDetailsActivity" />
+
+        <service
+            android:name="com.trigg.alarmclock.AlarmService"
+            android:enabled="true" />
+
+        <receiver android:name="com.trigg.alarmclock.AlarmManagerHelper" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.trigg.alarmclock.AlarmManagerHelperEnd" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.trigg.alarmclock.AlarmServiceEnd"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <activity
+            android:name="com.trigg.alarmclock.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.trigg.alarmclock.SingleContactActivity"
+            android:label="@string/title_activity_single_contact" >
+        </activity>
+        <activity
+            android:name="com.trigg.alarmclock.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.trigg.alarmclock.Register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.trigg.alarmclock.Setting_Introduction"
+            android:label="@string/title_activity_setting__introduction" >
+        </activity>
+    </application>
+
+</manifest>
