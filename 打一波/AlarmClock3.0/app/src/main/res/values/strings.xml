@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time Owner</string>
+    <string name="action_settings">Settings</string>
+
+	<array name ="job_sel">
+		<item>管理者</item>
+		<item>被管理者</item>
+
+	</array>
+
+    <string name="details_alarm_name">Alarm Name</string>
+	<string name="logout">Logout</string>
+	<string name="details_repeat_weekly">Repeat Weekly</string>
+	<string name="details_sunday">Sunday</string>
+	<string name="details_monday">Monday</string>
+	<string name="details_tuesday">Tuesday</string>
+	<string name="details_wednesday">Wednesday</string>
+	<string name="details_thursday">Thursday</string>
+	<string name="details_friday">Friday</string>
+	<string name="details_saturday">Saturday</string>
+	<string name="details_alarm_tone">Alarm Tone</string>
+	<string name="details_alarm_tone_default">Select an alarm tone</string>
+    <string name="title_activity_all_apps">AllAppsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_application_adapter">ApplicationAdapter</string>
+	<string name="app_names">List All Apps</string>
+	<string name="about_title">Javatechig.com</string>
+	<string name="about_desc">Provides tutorials, tips, examples and source code on leading Java, Android, Blackberry, PhoneGap and other mobile technologies.</string>
+	<string name="action_about">About</string>
+	<string name="hello_worlds">Hello world!</string>
+	<string name="title_activity_main2">Main2Activity</string>
+	<string name="action_setting">Settings</string>
+
+	<string name="title_activity_single_contact">SingleContactActivity</string>
+	<string name="login">Login</string>
+	<string name="title_activity_login">Login</string>
+	<string name="title_activity_register">Register</string>
+    <string name="title_activity_first_page">first_page</string>
+    <string name="title_activity_fucking_test">fuckingTest</string>
+    <string name="title_activity_thread_test">ThreadTest</string>
+    <string name="title_activity_job_selection">JobSelection</string>
+	
+</resources>

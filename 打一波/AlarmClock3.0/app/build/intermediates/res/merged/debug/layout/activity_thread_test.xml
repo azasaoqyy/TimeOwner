@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.trigg.alarmclock.ThreadTest">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test"
+        android:id="@+id/etT"
+        android:layout_marginTop="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/tvT"
+        android:layout_toStartOf="@+id/tvT" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test"
+        android:id="@+id/bT"
+        android:layout_below="@+id/etT"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="41dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:id="@+id/tvT"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/bT"
+        android:layout_alignEnd="@+id/bT" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/BJT/Desktop/AlarmClock3.0/app/src/main/res/layout/activity_thread_test.xml -->
