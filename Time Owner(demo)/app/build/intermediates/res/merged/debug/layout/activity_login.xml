@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color">
+
+    <TextView
+        android:text="Time Owner"
+        android:textColor="#ECFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:padding="30dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_horizontal"
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="User Name"
+        android:textColorHint="#FFFFFF"
+        android:padding="20dp"
+        android:id="@+id/user_name"
+        android:layout_gravity="center_horizontal"
+
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textColorHint="#FFFFFF"
+        android:id="@+id/user_pass"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal"
+        android:inputType="textPassword"
+
+        />
+
+
+    <Button
+        style="@style/ButtonText"
+        android:background="@drawable/button"
+        android:layout_width="130dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="登入"
+        android:id="@+id/bLogin"
+
+        />
+
+    <Button
+        style="@style/ButtonText"
+        android:background="@drawable/button"
+        android:layout_width="130dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="註冊"
+        android:id="@+id/bToRegister"
+
+        />
+
+
+
+
+
+</LinearLayout><!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/activity_login.xml -->

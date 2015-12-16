@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:maxHeight="50dp"
+        android:maxWidth="50dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/texttitle"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/image1"
+        android:layout_toEndOf="@+id/image1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/textsubtitle"
+        android:layout_below="@+id/texttitle"
+        android:layout_alignLeft="@+id/texttitle"
+        android:layout_alignStart="@+id/texttitle" />
+
+
+</RelativeLayout><!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/item.xml -->
