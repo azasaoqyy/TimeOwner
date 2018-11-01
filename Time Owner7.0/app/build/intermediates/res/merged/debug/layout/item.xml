@@ -34,4 +34,4 @@
         android:layout_alignStart="@+id/texttitle" />
 
 
-</RelativeLayout><!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/layout/item.xml -->
+</RelativeLayout>

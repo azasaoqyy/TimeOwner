@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_start.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_single_contact.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_single_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_setting__introduction.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_setting__introduction.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_application_adapter.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_application_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_first_page.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_first_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_details.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\alarm_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\alarm_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_all_apps.xml",
+        "source": "C:\\Users\\BJT\\Documents\\GitHub\\TimeOwner\\Time Owner7.0\\app\\src\\main\\res\\menu\\menu_all_apps.xml"
+    }
+]

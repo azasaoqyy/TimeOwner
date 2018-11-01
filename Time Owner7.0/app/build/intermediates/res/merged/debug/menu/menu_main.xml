@@ -11,4 +11,3 @@
         app:showAsAction="always"
         android:title="@string/login" />
 </menu>
-<!-- From: file:/C:/Users/user/Desktop/AlarmClock2.0/app/src/main/res/menu/menu_main.xml -->
